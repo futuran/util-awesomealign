@@ -22,5 +22,6 @@
     ```
     mkdir flickr.tkn.align
     cd util-awesomealign
-    awesome-align.sh ../flickr.tkn ../flickt.tkn.align
+    sh align_src-sim.sh
     ```
+    etc...
